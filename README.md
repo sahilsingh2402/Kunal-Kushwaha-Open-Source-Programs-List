@@ -1,5 +1,4 @@
 # Open Source Programs & Paid Virtual Internships
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsingh2402/Open-Source-Programsq&label=Total%20views&color=f1d104&style=flat-square" alt="sahilsingh2402" /> </p> <p align="left"> 
 
 ---
 ## ◘ [**Google Summer of Code**](https://summerofcode.withgoogle.com/) ◘
