@@ -1,4 +1,4 @@
-# Open Source Programs & Paid Virtual Internships 2021
+# Open Source Programs & Paid Virtual Internships
 
 ---
 ## ◘ [**Google Summer of Code**](https://summerofcode.withgoogle.com/) ◘
