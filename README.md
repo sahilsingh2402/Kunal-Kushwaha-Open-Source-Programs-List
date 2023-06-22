@@ -1,5 +1,5 @@
 # Open Source Programs & Paid Virtual Internships
-
+I will grab a 100k offer asap.
 ---
 ## ◘ [**Google Summer of Code**](https://summerofcode.withgoogle.com/) ◘
 
