@@ -1,21 +1,19 @@
-# Open Source Programs & Paid Virtual Internships
-
+uhfdhsiiljdfhklhdskjlfj;klaskdfjhklsjfhh Open Source Programs & Paid Virtual Internshipsslkfj;lkjsl;dhfklhj;kgj
+cfljskkdn,nfgknlfkjdlkjflskjflks;dfljldfjkg'osjdj;gh;fdkjdf.kjdfk.b
 ---
-## ◘ [**Google Summer of Code**](https://summerofcode.withgoogle.com/) ◘
-
-**Google Summer of Code** is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 10 week programming project during their break from school.
-
 https://summerofcode.withgoogle.com
-
----
-## ◘ [**MLH Fellowship**](https://fellowship.mlh.io/) ◘
+kjskakdajsddnknnbxcmvnbmxncvmbmcbmvv
+kjdfbmnvbmxnbmvcbmnbmvmnxv# ◘ [**MLH Fellowship**](https://fellowship.mlh.io/) ◘
   
 The **MLH Fellowship** is a remote internship alternative for aspiring technologists. Spend 12 weeks building your skills by collaborating on real-world projects.
 
 https://fellowship.mlh.io
 
----
-## ◘ [**Google Season of Docs**](https://developers.google.com/season-of-docs) ◘
+---lkdjflkj;alsd;kjfhgkjd;lfkj'skodf;ljDlfkmfowepkhf;osjflskNDfbsjdkdn.jkkjvn s,kjn;k.smnblkjvnk.jhfvkbf.vj.bv;ksbvjknv.kjbd;vk.jvbn vmzxnc ,mzxn cmbnxkcjv zmbn,vdsvhlbjkdsmfns/df'KLJA'k
+ef5343e65455276524f5sk;df;lk.,SBJDfkljb.dskc;lmLAKd;flkdnf,mbds.vmbx,ncv c.kj;dlja"Lfo
+l/cnfdskncmbddvmma>N,mnds;fls;fnsd,jf;lsddknffa/sdmm/s/n/ASd"APS
+Pw'poW';DJ/ASLKNDLALWEJRO2U[0E9WLDK.ANFENFKHJLFIUKJF
+## ◘ [**Google Season of Docs**](https://developersfndfbnbfjjgoogle.com/season-of-docs) ◘
 
 **Season of Docs provides** support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience in open source. Together we raise awareness of open source, of docs, and of technical writing.
 
